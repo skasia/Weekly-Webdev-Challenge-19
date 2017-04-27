@@ -150,22 +150,6 @@
     }
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.footer_author-name {
-    width: 20rem;
-    height: 8.5rem;
-    background-image: url("../img/icons/author-name.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
 @media only screen and (max-width: 685px) {
     .customers_image {
         width: 80%;
